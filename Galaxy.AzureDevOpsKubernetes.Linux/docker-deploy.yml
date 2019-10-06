@@ -31,7 +31,7 @@ spec:
                 app: app-galaxyazuredevopskuberneteslinuxclient
         spec:
             containers:
-            - image: appservicesdockerregister.azurecr.io/galaxyazuredevopskuberneteslinuxclient:__Build.BuildId__
+            - image: galaxyrc.azurecr.io/galaxyazuredevopskuberneteslinuxclient:__Build.BuildId__
               imagePullPolicy: IfNotPresent
               name: galaxyazuredevopskuberneteslinuxclient
               ports:
