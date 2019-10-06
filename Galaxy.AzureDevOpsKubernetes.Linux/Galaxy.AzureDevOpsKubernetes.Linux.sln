@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy.AzureDevOpsKubernetes.Linux.Client", "Galaxy.AzureDevOpsKubernetes.Linux.Client\Galaxy.AzureDevOpsKubernetes.Linux.Client.csproj", "{C727741C-4077-4C18-BD66-5231B754FAFD}"
 EndProject
-Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{2806C848-FC99-4F43-85E8-E85980AF3074}"
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{1FBBDC03-56DE-4FD6-A4D1-90967F2D5683}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{C727741C-4077-4C18-BD66-5231B754FAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C727741C-4077-4C18-BD66-5231B754FAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C727741C-4077-4C18-BD66-5231B754FAFD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2806C848-FC99-4F43-85E8-E85980AF3074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2806C848-FC99-4F43-85E8-E85980AF3074}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2806C848-FC99-4F43-85E8-E85980AF3074}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2806C848-FC99-4F43-85E8-E85980AF3074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FBBDC03-56DE-4FD6-A4D1-90967F2D5683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBBDC03-56DE-4FD6-A4D1-90967F2D5683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBBDC03-56DE-4FD6-A4D1-90967F2D5683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBBDC03-56DE-4FD6-A4D1-90967F2D5683}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

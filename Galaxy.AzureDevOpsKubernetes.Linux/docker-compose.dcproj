@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
-    <ProjectGuid>2806c848-fc99-4f43-85e8-e85980af3074</ProjectGuid>
+    <ProjectGuid>1fbbdc03-56de-4fd6-a4d1-90967f2d5683</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}</DockerServiceUrl>
     <DockerServiceName>galaxy.azuredevopskubernetes.linux.client</DockerServiceName>
@@ -14,5 +14,6 @@
     </None>
     <None Include="docker-compose.yml" />
     <None Include=".dockerignore" />
+    <None Include="docker-deploy.yml" />
   </ItemGroup>
 </Project>
